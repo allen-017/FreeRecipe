@@ -1,2 +1,4 @@
 # FreeRecipe
-#Fill up the Information and i will send the free recipe via email or phone number!
+Fill up the information and i will send the free recipe via email or phone number!
+
+Enjoy and learn new recipe...
